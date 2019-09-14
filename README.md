@@ -1,2 +1,2 @@
 # exam_helper
- easy tool to get ready for the exam
+ easy way to get ready for the exam
