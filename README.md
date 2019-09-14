@@ -1,2 +1,4 @@
-# exam_helper
- easy way to get ready for the exam
+# Exam Helper
+ Простой способ подготовится к любому экзамену
+ 
+ ![Screenshot](img/screenshot.png)
